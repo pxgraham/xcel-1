@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    margin: auto;
+    color: rgba(255, 255, 255, 0.664);
+}
+.pane {
+    /* position: relative; */
+    width: 80%;
+    margin: auto;    
+    box-shadow: 0px 200px 300px 50px red;
+    padding: 20px;
+}
+
+.paneBtn {
+    font-family: 'Arial';
+    padding: 10px;
+    margin-left: 10px;
+    font-size: 15px;
+    background: black;
+    border: 0px solid red;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: -10px -10px 10px 0px red;
+    color: red;
+    text-decoration: none;
+    text-align: center;
+}
+.paneBtn:hover {
+    cursor: pointer;
+    box-shadow: 0px 0px 20px 1px red;
+}
+.paneContent {
+    text-align: left;
+}

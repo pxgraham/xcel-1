@@ -1,0 +1,12 @@
+.cBtn {
+    width: 100px;
+    border: none;
+    margin: auto;
+    padding: 2px;
+}
+.contactTextField {
+    width: 50%;
+}
+.contactField {
+    width: 50%;
+}
